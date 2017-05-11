@@ -1,10 +1,10 @@
 {
   "name" : "e-commerce-passaro/acesso-factory",
   "description" : "Fabrica os serviços oferecidos pela biblioteca e-commerce-passaro/acesso",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type":"library",
   "homepage":"https://github.com/e-commerce-passaro/acesso-factory",
-  "time":"2017-05-11 17:44:01",
+  "time":"2017-05-11 18:27:02",
   "license":"GPL-3.0+",
   "authors":[{
 	"name":"Marcel Bezerra da Silva",
@@ -24,7 +24,7 @@
   "keywords" : [ "e-commerce-passaro", "zf3", "ecommerce", "acesso", "factory"],
   "autoload": {
         "psr-4": {
-            "Ecompassaro\\Acesso\\Factory\\": "./src/acesso"
+            "Ecompassaro\\Acesso\\Factory\\": "./src/Acesso"
         }
   }
 }
